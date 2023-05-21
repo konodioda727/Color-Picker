@@ -1,4 +1,8 @@
 import { createApp } from 'vue'
 import App from './App.vue'
+import DevUI from 'vue-devui';
+import 'vue-devui/style.css';
 
-createApp(App).mount('#app')
+createApp(App).use(DevUI).mount('#app');
+
+// createApp(App).mount('#app')

@@ -1,0 +1,131 @@
+D:\code\template
+├─.gitignore
+├─babel.config.js
+├─jsconfig.json
+├─package-lock.json
+├─package.json
+├─README.md
+├─vue.config.js
+├─src
+|  ├─App.vue
+|  ├─main.js
+|  ├─components
+|  |     ├─img
+|  |     |  └sucker.png
+|  |     ├─color
+|  |     |   ├─AlphaComponent.vue
+|  |     |   ├─BoxComponent.vue
+|  |     |   ├─ColorsComponent.vue
+|  |     |   ├─HistoryComponent.vue
+|  |     |   ├─HueComponent.vue
+|  |     |   ├─IndexComponent.vue
+|  |     |   ├─mixin.js
+|  |     |   ├─PreviewComponent.vue
+|  |     |   ├─SaturationComponent.vue
+|  |     |   └SuckerComponent.vue
+|  ├─assets
+|  |   └logo.png
+├─public
+|   ├─favicon.ico
+|   └index.html
+├─dist
+|  ├─favicon.ico
+|  ├─index.html
+|  ├─js
+|  | ├─app.dfa5978c.js
+|  | ├─app.dfa5978c.js.map
+|  | ├─chunk-vendors.0ef16d6b.js
+|  | └chunk-vendors.0ef16d6b.js.map
+|  ├─css
+|  |  └app.01b065ff.css
+├─.git
+|  ├─COMMIT_EDITMSG
+|  ├─config
+|  ├─description
+|  ├─HEAD
+|  ├─index
+|  ├─refs
+|  |  ├─tags
+|  |  ├─heads
+|  |  |   └master
+|  ├─objects
+|  |    ├─pack
+|  |    ├─info
+|  |    ├─f3
+|  |    | └d2503fc2a44b5053b0837ebea6e87a2d339a43
+|  |    ├─e9
+|  |    | └558405fdcc02f12d757acb308e02937a7444f1
+|  |    ├─df
+|  |    | └36fcfb72584e00488330b560ebcf34a41c64c2
+|  |    ├─b5
+|  |    | └e13bb6acca2abbdaa0e5257c505df2e16fb128
+|  |    ├─ab
+|  |    | └eb4fe7eb429d9815d969e579538e6c0ee6d563
+|  |    ├─99
+|  |    | └bf960e214e73e5513e054ac34c331b6d4b1a46
+|  |    ├─91
+|  |    | └0e297e0f53483455d2aa432887c3b7975d6c11
+|  |    ├─87
+|  |    | └9051a29739fdfb17ae82ed23b53fac251c2b7e
+|  |    ├─7f
+|  |    | └9dddc7e26ec36a8bf4fbdd0305199764ac3cb2
+|  |    ├─65
+|  |    | └10c6a45035b6573151ff6196e4bdea78deb75d
+|  |    ├─64
+|  |    | └afaea7e0f99e8262f35bd394af63c86e2c04b3
+|  |    ├─59
+|  |    | └1a0312d9dac2a6f0e766b2a8f9151d62decd94
+|  |    ├─4c
+|  |    | └3373726979dfbbbf833a2d46527dc3a8f27de8
+|  |    ├─4a
+|  |    | └afc5f6ed86fe6dff8d4b6be59290cbdeb61656
+|  |    ├─40
+|  |    | └3adbc1e527906a4aa59558cd582c20bcd1d738
+|  |    ├─3e
+|  |    | └5a13962197105f2078d2a224cc57dfa09b4893
+|  |    ├─11
+|  |    | └dcbb2bb38a6804c0f7e55c5ad0ee4e5d68cc02
+|  |    ├─06
+|  |    | └5e77e0c9b1b62599ce9d563e02f7b27c568c40
+|  |    ├─01
+|  |    | └433bca2ac76590c48fabfee8d69d7b223f48bb
+|  ├─logs
+|  |  ├─HEAD
+|  |  ├─refs
+|  |  |  ├─heads
+|  |  |  |   └master
+|  ├─info
+|  |  └exclude
+|  ├─hooks
+|  |   ├─applypatch-msg
+|  |   ├─applypatch-msg.sample
+|  |   ├─commit-msg
+|  |   ├─commit-msg.sample
+|  |   ├─fsmonitor-watchman.sample
+|  |   ├─post-applypatch
+|  |   ├─post-checkout
+|  |   ├─post-commit
+|  |   ├─post-merge
+|  |   ├─post-receive
+|  |   ├─post-rewrite
+|  |   ├─post-update
+|  |   ├─post-update.sample
+|  |   ├─pre-applypatch
+|  |   ├─pre-applypatch.sample
+|  |   ├─pre-auto-gc
+|  |   ├─pre-commit
+|  |   ├─pre-commit.sample
+|  |   ├─pre-merge-commit.sample
+|  |   ├─pre-push
+|  |   ├─pre-push.sample
+|  |   ├─pre-rebase
+|  |   ├─pre-rebase.sample
+|  |   ├─pre-receive
+|  |   ├─pre-receive.sample
+|  |   ├─prepare-commit-msg
+|  |   ├─prepare-commit-msg.sample
+|  |   ├─push-to-checkout
+|  |   ├─push-to-checkout.sample
+|  |   ├─sendemail-validate
+|  |   ├─update
+|  |   └update.sample
